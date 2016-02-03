@@ -1,6 +1,6 @@
 name: REVS
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.27162
 typography_spectrum: 0.86164
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0d0f0e'
-    - '#574839'
-    - '#6c8078'
-    - '#89515a'
-    - '#49171d'
-  brandStrength: 1
-  lightness: 1
+    - '#f9ff25'
+    - '#8b960f'
+    - '#ec3bfa'
+    - '#ce005e'
+    - '#fefefe'
+  brandStrength: 0.5
+  lightness: 0
   saturation: 1
   rhythmicContrast: 1
 purpose: []
