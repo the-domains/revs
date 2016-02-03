@@ -4,7 +4,7 @@
         <description><![CDATA[REVS]]></description>
         <link>https://thegrid.ai/revs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 23:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 23:35:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 03 Feb 2016 23:15:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NUESTROS TRABAJOS]]></title>
+            <description><![CDATA[<article><h1>NUESTROS TRABAJOS</h1><p>https://vimeo.com/149034054</p></article>]]></description>
+            <link>https://thegrid.ai/revs/nuestros-trabajos/index.html</link>
+            <guid isPermaLink="false">8beb458c-e8d1-4f0d-8975-21fccf471f62</guid>
+            <pubDate>Wed, 03 Feb 2016 23:35:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[QUIENES SOMOS]]></title>
-            <description><![CDATA[<article><h1>QUIENES SOMOS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c92aeaf2976a60738887a156ea00075b7c5da6e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>QUIENES SOMOS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/965bda80f28ff075affe4172347d514144da6b8b.png"></article>]]></description>
             <link>https://thegrid.ai/revs/we-are-smart-and-persistent/index.html</link>
             <guid isPermaLink="false">ea6e8bd6-3744-4842-9d5d-f061aaa7eb30</guid>
             <pubDate>Wed, 03 Feb 2016 23:32:40 GMT</pubDate>
