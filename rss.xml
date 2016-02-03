@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[REVS]]></title>
         <description><![CDATA[REVS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/revs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 23:10:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 23:15:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/revs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A Boutique Service – Offering everything from local Production support, to 360 production solutions and logistical support, that takes your creative from brief through to delivery.</p>]]></description>
-            <link>undefined32721358-b8d0-4d38-83af-0cd1c3e8a1a4/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee8ec049-4e3f-4ae5-885a-77177aa0ec0c.jpg">]]></description>
+            <link>https://thegrid.ai/revs/32721358-b8d0-4d38-83af-0cd1c3e8a1a4/index.html</link>
             <guid isPermaLink="false">32721358-b8d0-4d38-83af-0cd1c3e8a1a4</guid>
-            <pubDate>Wed, 03 Feb 2016 23:09:44 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 23:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
