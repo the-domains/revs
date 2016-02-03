@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T23:27:58.233Z'
-dateModified: '2016-02-03T23:27:33.116Z'
+datePublished: '2016-02-03T23:32:40.351Z'
+dateModified: '2016-02-03T23:29:04.043Z'
 title: QUIENES SOMOS
 author: []
 sourcePath: _posts/2016-02-03-we-are-smart-and-persistent.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # QUIENES SOMOS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10171ed6-c8ef-4a59-b3c0-c47d7886c4ef.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a192744737a70dbc687d6f8787a8c22bdd2e8fd8.png)
 
 A Boutique Service -- Offering everything from local Production support, to 360 production solutions and logistical support, that takes your creative from brief through to delivery.
 
@@ -40,7 +40,10 @@ We have had enough time/experience to grow up to the most important job: help yo
 We provide you with a feasible and safe budget that you can sell to your client as well. 
 
 ## LUCIANO
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5891642d-ef0c-4782-973a-3edfab2a09d4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d10d7aa2608f36649dd992e6c3ad08658590a11.png)
 
 ## ALVARO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ce3ed3-08e7-44d1-835b-d274a8c41c7c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb7a2430-fcfb-4a6b-b6ed-a797c4b9a2a6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d82f4e6-acd0-47eb-a726-6f84de903867.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e50afb2-3000-4ce1-9ce3-a8573a0bee7d.png)
