@@ -4,7 +4,7 @@
         <description><![CDATA[REVS]]></description>
         <link>https://thegrid.ai/revs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 23:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 23:28:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Wed, 03 Feb 2016 23:15:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We are smart and persistent]]></title>
-            <description><![CDATA[<article><h1>We are smart and persistent</h1><p>QUIENES SOMOS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a192744737a70dbc687d6f8787a8c22bdd2e8fd8.png"></article>]]></description>
+            <title><![CDATA[QUIENES SOMOS]]></title>
+            <description><![CDATA[<article><h1>QUIENES SOMOS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a192744737a70dbc687d6f8787a8c22bdd2e8fd8.png"></article>]]></description>
             <link>https://thegrid.ai/revs/we-are-smart-and-persistent/index.html</link>
             <guid isPermaLink="false">ea6e8bd6-3744-4842-9d5d-f061aaa7eb30</guid>
-            <pubDate>Wed, 03 Feb 2016 23:23:28 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 23:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
